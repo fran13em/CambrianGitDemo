@@ -11,3 +11,7 @@
 # My name is Rammel Balagtas
 
 # I am looking forward to learning this course!
+
+# My name is Francisco Escobar
+
+# I am looking forward to boost my programming skills in this course.
