@@ -1,13 +1,7 @@
-# My name is Hafees Falana
+# My name is Francisco
 
-# I love programming; basically I do alot of self-learning from youtube videos and reading materials
+# I will like to make better my programing skills during this course
 
-# I am new to Java though, but I am proficient in php , HTML; my Javascript is intermidiate though
-
-# I am looking forward to learning exciting things in the world of mobile application development
+# I have basic knowledge o programming java, php and c#
 
 # created on 9th September, 2021
-
-# My name is Rammel Balagtas
-
-# I am looking forward to learning this course!
